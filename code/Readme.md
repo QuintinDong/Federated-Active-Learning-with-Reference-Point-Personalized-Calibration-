@@ -1,6 +1,4 @@
-# FedAvg with DINO Detection and Active Learning
-
-A federated learning framework based on FedAvg with the following integrated features:
+# Federated Active Learning with Reference Point Personalized Calibration for Medical Image Segmentation
 
 ## Key Features
 
