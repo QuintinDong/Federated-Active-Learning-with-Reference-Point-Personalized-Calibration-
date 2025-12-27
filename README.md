@@ -40,7 +40,7 @@ python runner_fedavg_dino_al.py \
     --max_iterations 30000 \
     --iters 20 \
     --eval_iters 200 \
-    --batch_size 12 \
+    --batch_size 5 \
     --al_rounds 5 \
     --al_samples_per_round 10 \
     --n_clusters 10
